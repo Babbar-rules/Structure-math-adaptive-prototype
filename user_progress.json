@@ -1,0 +1,30 @@
+{
+    "harry": {
+        "history": [
+            {
+                "question": "What is 10 - 4?",
+                "correct_answer": 6,
+                "user_answer": 6.0,
+                "correct": true,
+                "time_taken": 1.8878364562988281,
+                "difficulty": "easy"
+            },
+            {
+                "question": "What is 1 * 26?",
+                "correct_answer": 26,
+                "user_answer": 26.0,
+                "correct": true,
+                "time_taken": 5.373960018157959,
+                "difficulty": "medium"
+            },
+            {
+                "question": "What is 9 * 23?",
+                "correct_answer": 207,
+                "user_answer": 2.0,
+                "correct": false,
+                "time_taken": 2.6298182010650635,
+                "difficulty": "medium"
+            }
+        ]
+    }
+}
